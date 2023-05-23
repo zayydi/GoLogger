@@ -1,0 +1,4 @@
+{"appName": "NESTJS", "level": "error", "description": "This is an error please rectify"}
+[error] This is an unknown error
+{"level": "info", "description": "This is an info message"}
+{"level": "error", "description": "NESTJS APP CRASHED"}
